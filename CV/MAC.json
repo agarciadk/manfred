@@ -1,0 +1,632 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.5"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Alberto",
+      "surnames": "García de Paredes Cidoncha",
+      "title": "Frontend Developer | Javascript | Web Components | React",
+      "description": "► ABOUT ME:\n\nMy name is Alberto, I am a Software Engineer, with special interest in frontend development.\n\n► ¿WHAT ARE MY SKILLS?:\n\n✓ Open to change.\n✓ Proactive.\n✓ Teamwork.\n✓ Fast learner.\n\n► ¿READY TO CHAT?:\n\nTo know better what I do, write to me at agarciadk@gmail.com",
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJo03i-B1bFA0R4TQzHEoBL2k)",
+        "country": "España",
+        "region": "Extremadura",
+        "municipality": "Don Benito"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/albertogarciadeparedes/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/agarciadk"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Minsait",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/10/08/0c7f0579-56dc-4849-89b1-b45a3d666e44_logo-minsait-qudrato.png",
+            "alt": "logo-minsait-qudrato.png"
+          },
+          "URL": "https://www.minsait.com/es"
+        },
+        "roles": [
+          {
+            "name": "Software Engineer II",
+            "startDate": "2024-06-01",
+            "challenges": [
+              {
+                "description": "## Sector Bancario, *BBVA España*.\n\nDesarrollo de un proyecto internacional desde cero."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Bitbucket",
+                "type": "technology"
+              },
+              {
+                "name": "Cucumber",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Jenkins",
+                "type": "technology"
+              },
+              {
+                "name": "Jira",
+                "type": "technology"
+              },
+              {
+                "name": "Karma",
+                "type": "technology"
+              },
+              {
+                "name": "LitElement",
+                "type": "technology"
+              },
+              {
+                "name": "Visual Studio Code",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "NEORIS",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/15/e40961eb-98c1-484c-84ad-41dcbde23800_neoris-logo.png",
+            "alt": "neoris-logo.png"
+          },
+          "URL": "https://neoris.com/es/"
+        },
+        "roles": [
+          {
+            "name": "Software Consultant",
+            "startDate": "2024-01-01",
+            "finishDate": "2024-06-01",
+            "challenges": [
+              {
+                "description": "## Sector Bancario, *BBVA España*.\n\nDesarrollo de un proyecto desde cero."
+              }
+            ],
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Jenkins",
+                "type": "technology"
+              },
+              {
+                "name": "Karma",
+                "type": "technology"
+              },
+              {
+                "name": "LitElement",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "WebComponents",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "NTT DATA Europe & Latam",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/15/abd1619f-3b27-4509-a61d-518513b79a7d_nttdata-logo.png",
+            "alt": "nttdata-logo.png"
+          },
+          "URL": "https://es.nttdata.com/"
+        },
+        "roles": [
+          {
+            "name": "Software Developer",
+            "startDate": "2023-09-01",
+            "finishDate": "2024-01-01",
+            "challenges": [
+              {
+                "description": "## Sector Bancario, *BBVA España*.\n\nDesarrollo de un proyecto desde cero.\n\nGestión de los actos de comunicación judiciales específicos cuyos destinatarios son autoridades judiciales y funcionarios. Bloqueo de productos (cuentas, tarjetas, ...) de clientes en procesos judiciales."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Bower",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JSON",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Jenkins",
+                "type": "technology"
+              },
+              {
+                "name": "LitElement",
+                "type": "technology"
+              },
+              {
+                "name": "WebComponents",
+                "type": "technology"
+              },
+              {
+                "name": "Webpack",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "NTT DATA Europe & Latam",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/07/25/bac0730f-d645-493f-b3a0-fce0fff7e0a3_logo-nttdata.jpeg",
+            "alt": "logo nttdata.jpeg"
+          },
+          "URL": "https://es.nttdata.com/"
+        },
+        "roles": [
+          {
+            "name": "Junior Software Developer",
+            "startDate": "2022-10-01",
+            "finishDate": "2023-09-01",
+            "challenges": [
+              {
+                "description": "## Sector Bancario, *BBVA España*.\n\nDesarrollo de un proyecto desde cero.\n\nGestión de los actos de comunicación judiciales específicos cuyos destinatarios son autoridades judiciales y funcionarios. Bloqueo de productos (cuentas, tarjetas, ...) de clientes en procesos judiciales."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Bower",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JSON",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Jenkins",
+                "type": "technology"
+              },
+              {
+                "name": "LitElement",
+                "type": "technology"
+              },
+              {
+                "name": "WebComponents",
+                "type": "technology"
+              },
+              {
+                "name": "Webpack",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Lionbridge",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/07/25/2297a788-aac2-4511-ba10-a26487f2df11_logo-lionbridge.png",
+            "alt": "logo lionbridge.png"
+          }
+        },
+        "roles": [
+          {
+            "name": "Internet Ads Assessor",
+            "startDate": "2017-05-01",
+            "finishDate": "2019-08-31",
+            "challenges": [
+              {
+                "description": "TBD"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "HOMERIA Open Solutions",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/07/25/8bc38413-8be9-4af4-afa4-82eacb131ea7_homeria-logo.jpeg",
+            "alt": "homeria logo.jpeg"
+          }
+        },
+        "roles": [
+          {
+            "name": "Prácticas",
+            "startDate": "2015-08-01",
+            "finishDate": "2015-09-01",
+            "challenges": [
+              {
+                "description": "Participación en el proyecto SW4EU (Smart Water For Europe) investigación y estudio en algoritmos para la detección de fugas en agua."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "EN",
+        "fullName": "Inglés",
+        "level": "Professional working proficiency"
+      },
+      {
+        "name": "ES",
+        "fullName": "Español",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Android",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Cucumber",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Java",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Karma",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "LitElement",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Mocha",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Mongoose",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NextJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostgreSQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Puppeteer",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Redux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spring Boot",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TestingLibrary",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Vim",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Webpack",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Ingenieria Informática en Ingenieria Software",
+        "startDate": "2010-09-01",
+        "institution": {
+          "name": "Universidad de Extremadura",
+          "URL": "https://www.unex.es/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/07/25/caec0779-cbba-4b04-a12e-9a805115d10f_logo-universidad.jpeg",
+            "alt": "Logo universidad.jpeg"
+          }
+        },
+        "finishDate": "2022-07-01",
+        "linkedCompetences": [
+          {
+            "name": "Android",
+            "type": "technology"
+          },
+          {
+            "name": "C",
+            "type": "technology"
+          },
+          {
+            "name": "C++",
+            "type": "technology"
+          },
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "Git",
+            "type": "technology"
+          },
+          {
+            "name": "Java",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "MongoDB",
+            "type": "technology"
+          },
+          {
+            "name": "MySQL",
+            "type": "technology"
+          },
+          {
+            "name": "PostgreSQL",
+            "type": "technology"
+          },
+          {
+            "name": "SQL",
+            "type": "technology"
+          },
+          {
+            "name": "SQLite",
+            "type": "technology"
+          },
+          {
+            "name": "Spring",
+            "type": "technology"
+          }
+        ]
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://www.linkedin.com/in/albertogarciadeparedes/",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/agarciadk",
+          "type": "github"
+        }
+      ],
+      "contactMails": [
+        "agarciadk@gmail.com"
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "LitElement",
+          "type": "technology"
+        },
+        {
+          "name": "NextJS",
+          "type": "technology"
+        },
+        {
+          "name": "NodeJS",
+          "type": "technology"
+        },
+        {
+          "name": "React",
+          "type": "technology"
+        },
+        {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "Java",
+          "type": "technology"
+        },
+        {
+          "name": "Visual Basic",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Frontend Developer",
+        "Full-stack Developer"
+      ]
+    },
+    "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "React",
+        "type": "technology"
+      },
+      {
+        "name": "Redux",
+        "type": "technology"
+      },
+      {
+        "name": "TestingLibrary",
+        "type": "technology"
+      },
+      {
+        "name": "TypeScript",
+        "type": "technology"
+      }
+    ],
+    "desiredJobDescription": "Me gustaría un trabajo que estuviera a la vanguardia en tecnología, que tuviera compañeros referentes en el área y que fuera un reto en el día a día"
+  }
+}
