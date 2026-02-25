@@ -554,6 +554,18 @@
     "softSkills": [
       {
         "skill": {
+          "name": "Adaptabilidad al cambio",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Proactividad",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
           "name": "Trabajo en equipo",
           "type": "practice"
         }
