@@ -568,6 +568,10 @@
     "preferences": {
       "preferredCompetences": [
         {
+          "name": "JavaScript",
+          "type": "technology"
+        },
+        {
           "name": "LitElement",
           "type": "technology"
         },
