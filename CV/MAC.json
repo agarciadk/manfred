@@ -550,14 +550,6 @@
           }
         ]
       }
-    ],
-    "softSkills": [
-      {
-        "skill": {
-          "name": "Pensamiento analítico",
-          "type": "practice"
-        }
-      }
     ]
   },
   "careerPreferences": {
@@ -597,10 +589,6 @@
         }
       ],
       "discardedCompetences": [
-        {
-          "name": "Java",
-          "type": "technology"
-        },
         {
           "name": "Visual Basic",
           "type": "technology"
